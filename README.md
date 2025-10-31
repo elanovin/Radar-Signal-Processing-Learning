@@ -1,2 +1,2 @@
 # Radar-Signal-Processing-Learning
-My study notes &amp; Python notebooks from Richards’ Radar book.
+This repository contains my study notes and Python notebooks based on  "Fundamentals of Radar Signal Processing " by Mark A. Richards. (2nd Ed.)

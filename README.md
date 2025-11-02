@@ -9,3 +9,14 @@ This repository contains my study notes and Python notebooks based on  "Fundamen
 ## Status
 
 Learning in public. I add a new notebook after each concept I study.
+##  Chapter 1 — Basics
+
+**Notebook:** [Sampling a Complex Sinusoid](Chapter_1_Basics/1%29%20Sampling%20a%20Complex%20Sinusoid.ipynb)
+
+**Overview:**  
+This notebook shows what a complex sinusoidal signal really means and how it’s represented digitally.
+**Key takeaway:**  
+This simple complex sinusoid is much more than a math expression, it’s the foundation of radar signals.
+The way its phase and frequency behave later helps us detect motion, measure Doppler shifts, and estimate target range.
+
+---

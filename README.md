@@ -20,7 +20,8 @@ This simple complex sinusoid is much more than a math expression, it’s the fou
 The way its phase and frequency behave later helps us detect motion, measure Doppler shifts, and estimate target range.
 
 ---
-**Notebook:** [FFT of a Stationary Target](Chapter_1_Basics/2_1_FFT_Stationary_Target.ipynb)
+**Notebook:** **Notebook:** [FFT of a Stationary Target](Chapter_1_Basics/2_1%29%20FFT_Stationary_Target.ipynb)
+
 **Overview:** 
 This notebook demonstrates how the Fast Fourier Transform (FFT) reveals the frequency content of a sampled radar signal.
 It shows that a stationary target produces a single, sharp spectral spike at its tone frequency, corresponding to a constant echo with no Doppler shift.

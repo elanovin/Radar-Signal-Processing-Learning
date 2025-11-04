@@ -20,7 +20,7 @@ This simple complex sinusoid is much more than a math expression, it’s the fou
 The way its phase and frequency behave later helps us detect motion, measure Doppler shifts, and estimate target range.
 
 ---
-**Notebook:** [FFT_Stationary_Target](Chapter_1_Basics/2.1%20FFT_Stationary_Target.ipynb)
+**Notebook:** [FFT of a Stationary Target](Chapter_1_Basics/2.1%20FFT_Stationary_Target.ipynb)
 
 **Overview:** 
 This notebook demonstrates how the Fast Fourier Transform (FFT) reveals the frequency content of a sampled radar signal.

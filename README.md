@@ -9,7 +9,7 @@ This repository contains my study notes and Python notebooks based on  "Fundamen
 ## Status
 
 Learning in public. I add a new notebook after each concept I study.
-##  Chapter 1 — Basics
+##  Chapter 1 - Basics
 
 **Notebook:** [Sampling a Complex Sinusoid](Chapter_1_Basics/1%29%20Sampling%20a%20Complex%20Sinusoid.ipynb)
 
@@ -20,8 +20,15 @@ This simple complex sinusoid is much more than a math expression, it’s the fou
 The way its phase and frequency behave later helps us detect motion, measure Doppler shifts, and estimate target range.
 
 ---
-**Notebook:** **Notebook:** [FFT of a Stationary Target](Chapter_1_Basics/2_1%29%20FFT_Stationary_Target.ipynb)
+**Notebook:**  [FFT of a Stationary Target](Chapter_1_Basics/2_1%29%20FFT_Stationary_Target.ipynb)
 
 **Overview:** 
 This notebook demonstrates how the Fast Fourier Transform (FFT) reveals the frequency content of a sampled radar signal.
 It shows that a stationary target produces a single, sharp spectral spike at its tone frequency, corresponding to a constant echo with no Doppler shift.
+
+---
+**Notebook:**  [FFT of a Moving Target](Chapter_1_Basics/2_2%29%20FFT_Moving_Target.ipynb)
+
+**Overview:**
+This notebook demonstrates how a moving radar target produces a Doppler frequency shift in its returned signal.
+By comparing stationary and moving echoes using the Fast Fourier Transform (FFT), it shows how motion shifts the spectral peak by the Doppler frequency

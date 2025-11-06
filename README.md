@@ -32,3 +32,11 @@ It shows that a stationary target produces a single, sharp spectral spike at its
 **Overview:**
 This notebook demonstrates how a moving radar target produces a Doppler frequency shift in its returned signal.
 By comparing stationary and moving echoes using the Fast Fourier Transform (FFT), it shows how motion shifts the spectral peak by the Doppler frequency
+
+---
+**Notebook:** [FFT_Noise_and_Targets](Chapter_1_Basics/2_3%29%20FFT_Moving_Target.ipynb)
+
+**Overview:**  
+This notebook demonstrates how **Additive White Gaussian Noise (AWGN)** affects radar signals and how **Signal-to-Noise Ratio (SNR)** determines the visibility of a target in the frequency domain.  
+
+---

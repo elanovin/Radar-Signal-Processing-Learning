@@ -40,3 +40,10 @@ By comparing stationary and moving echoes using the Fast Fourier Transform (FFT)
 This notebook demonstrates how **Additive White Gaussian Noise (AWGN)** affects radar signals and how **Signal-to-Noise Ratio (SNR)** determines the visibility of a target in the frequency domain.  
 
 ---
+**Notebook:** [FFT_Leakage_Misaligned_vs_Bin_Aligned_Tones](Chapter_1_Basics/2_3%29%20FFT_Leakage_Misaligned_vs_Bin_Aligned_Tones.ipynb)
+
+**Overview:** 
+
+This notebook explores how the Fast Fourier Transform (FFT) represents a sinusoidal signal when its frequency does not fall exactly on an FFT bin. Using two tones — a misaligned tone at 1450 Hz and a bin-aligned tone at 1480 Hz — the notebook demonstrates how finite observation time and FFT bin spacing create spectral leakage. This concept is fundamental in radar signal processing because Doppler frequencies rarely sit perfectly on FFT grid points.
+
+---

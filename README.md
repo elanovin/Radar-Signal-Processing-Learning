@@ -40,7 +40,7 @@ By comparing stationary and moving echoes using the Fast Fourier Transform (FFT)
 This notebook demonstrates how **Additive White Gaussian Noise (AWGN)** affects radar signals and how **Signal-to-Noise Ratio (SNR)** determines the visibility of a target in the frequency domain.  
 
 ---
-**Notebook:** [FFT_Leakage_Misaligned_vs_Bin_Aligned_Tones](Chapter_1_Basics/%29%20FFT_Leakage_Misaligned_vs_Bin_Aligned_Tones.ipynb)
+**Notebook:** [FFT_Leakage_Misaligned_vs_Bin_Aligned_Tones](Chapter_1_Basics/FFT_Leakage_Misaligned_vs_Bin_Aligned_Tones.ipynb)
 
 **Overview:** 
 
